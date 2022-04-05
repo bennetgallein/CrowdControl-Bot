@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is the Discord-Bot that partially powers the (CrowdSec)[https://crowdsec.net] Discord Server. For more information, visit us and chat!
 
 ## Installation
 
@@ -57,6 +57,12 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Contributing
+
+If you want to contribute, please open a Pull Request with a description of the feature you are adding.
+Also please follow the commit-message guidelines defined [here](https://www.conventionalcommits.org/en/v1.0.0/) to keep the repository clean.
+
 
 ## Support
 
