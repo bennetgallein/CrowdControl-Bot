@@ -32,6 +32,8 @@ This is the Discord-Bot that partially powers the (CrowdSec)[https://crowdsec.ne
 $ npm install
 ```
 
+copy the `.env.example` file to `.env` and insert you Bot-token taken from the Discord Developer-Portal. 
+
 ## Running the app
 
 ```bash
