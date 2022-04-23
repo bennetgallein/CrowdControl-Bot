@@ -54,7 +54,7 @@ export class AppService {
 
     if (user.roles.cache.get(roleId)) {
       message.reply(
-        'Looks like you are already opted in! Type "opt!out" to don\'t receive annoucements any more.',
+        'Looks like you are already opted in! Type "opt!out" to not receive annoucements any more.',
       );
       return;
     }
